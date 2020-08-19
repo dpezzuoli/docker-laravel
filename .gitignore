@@ -1,0 +1,6 @@
+.vscode
+mysql/*
+src/*
+!mysql/README.md
+!src/README.md
+!nginx/README.md
