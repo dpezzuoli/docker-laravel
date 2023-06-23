@@ -1,1 +1,1 @@
-clone repository larave
+clone repository laravel
